@@ -16,5 +16,13 @@
 
 	[Docker Hub](https://hub.docker.com/r/beercan1989/arm-mysql/)
 
-`some
-code`
+## Tested
+  Tested on OrangePI PC based on:
+  Title:			Armbian 5.38 Orangepipc Debian stretch next
+  Kernel:			Linux 4.14.15
+  Build date:		        25.01.2018
+  Authors:		        https://www.armbian.com/authors
+  Sources: 		        https://github.com/armbian/
+  Support: 		        https://forum.armbian.com/
+  Changelog: 		        https://www.armbian.com/logbook/
+  Documantation:		https://docs.armbian.com/
