@@ -1,5 +1,20 @@
 # Firefly III
 
+Repository has been created to automate install Firefly III on single-board computers (should works on Orange PI, Raspberry Pi etc) based on Armbian and Docker.
+
+It was created to own use in isolated local network on OrangePI PC.
+
+## Installation steps
+
+  * Install Armbian on single-board computer
+
+  * Start initial setup script with sudo
+
+    `sudo init-setup.sh`
+
+After steps will be completed Firefly III will be available on http://single-board computer-IP.
+
+
 ## References
 
   * Debian jessie-slim ARM based image
@@ -15,6 +30,12 @@
   * MySQL
 
 	[Docker Hub](https://hub.docker.com/r/beercan1989/arm-mysql/)
+
+  * Firefly III
+
+	[Docker Hub](https://hub.docker.com/r/jc5x/firefly-iii/)
+
+	[Official GitHub repository](https://github.com/firefly-iii/firefly-iii)
 
 ## Tested
   Tested on OrangePI PC based on:
