@@ -1,6 +1,6 @@
-#Firefly III
+# Firefly III
 
-*##PHP 7.1
+*## PHP 7.1
 
 	[Docker Hub](https://hub.docker.com/_/php/)
 
