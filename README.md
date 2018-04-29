@@ -12,7 +12,7 @@ It was created to own use in isolated local network on OrangePI PC.
 
     `sudo init-setup.sh`
 
-After steps will be completed Firefly III will be available on http://single-board computer-IP.
+After steps will be completed Firefly III will be available on http://single-board-computer-IP.
 
 
 ## References
