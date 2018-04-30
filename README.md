@@ -4,6 +4,9 @@ Repository has been created to automate install Firefly III on single-board comp
 
 It was created to own use in isolated local network on OrangePI PC.
 
+To deploy Firefly III uses images built from Dockerfiles in docker folder and stored on Docker Hub [MySQL ARM](https://hub.docker.com/r/po1yak/mysql_arm/), [Firefly III ARM](https://hub.docker.com/r/po1yak/firefly-iii_arm/)
+
+
 ## Installation steps
 
   * Install Armbian on single-board computer
