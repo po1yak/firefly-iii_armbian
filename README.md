@@ -1,6 +1,6 @@
 # Firefly III
 
-Repository has been created to automate install Firefly III on single-board computers (should works on Orange PI, Raspberry Pi etc) based on Armbian and Docker.
+Repository has been created to automate install [Firefly III](https://firefly-iii.org/) on single-board computers (should works on Orange PI, Raspberry Pi etc) based on Armbian and Docker.
 
 It was created to own use in isolated local network on OrangePI PC.
 

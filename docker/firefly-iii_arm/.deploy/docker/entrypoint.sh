@@ -3,6 +3,7 @@
 # make sure we own the volumes:
 chown -R www-data:www-data $FIREFLY_PATH/storage/export $FIREFLY_PATH/storage/upload
 chmod -R 775 $FIREFLY_PATH/storage/export $FIREFLY_PATH/storage/upload
+touch /var/www/firefly-iii/storage/logs/laravel.log
 chown www-data:www-data /var/www/firefly-iii/storage/logs/laravel.log
 
 cat .env.docker | envsubst > .env && cat .env
